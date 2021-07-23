@@ -1,5 +1,5 @@
 {
-  "name": "Auth0 - JavaScript SDK",
+  "name": "auth0-javascript-sdk",
   "version": "1.0.0",
   "description": "Sample application for the new Auth0 JavaScript SPA SDK",
   "main": "server.js",
