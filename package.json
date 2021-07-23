@@ -1,11 +1,10 @@
 {
-  "name": "01-login",
+  "name": "Auth0 - JavaScript SDK",
   "version": "1.0.0",
-  "description": "Sample application for the new Auth0 SPA SDK",
+  "description": "Sample application for the new Auth0 JavaScript SPA SDK",
   "main": "server.js",
   "scripts": {
-    "start": "node bin/www",
-    "dev": "nodemon bin/www"
+    "start": "node bin/www"
   },
   "keywords": [],
   "author": "",
