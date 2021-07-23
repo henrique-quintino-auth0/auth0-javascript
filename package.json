@@ -5,14 +5,12 @@
   "main": "server.js",
   "scripts": {
     "start": "node bin/www",
-    "henrique": "node server.js",
-    "build": "node_modules/.bin/parcel build index.html -d public --public-url ./"
+    "henrique": "node server"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "parcel-bundler": "^1.3.1",
     "express": "^4.17.1",
     "helmet": "^3.23.3",
     "morgan": "^1.10.0"
