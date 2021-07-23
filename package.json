@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node bin/www",
+    "henrique": "node server.js",
     "build": "node_modules/.bin/parcel build index.html -d public --public-url ./"
   },
   "keywords": [],
