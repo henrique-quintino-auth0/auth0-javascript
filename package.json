@@ -2,9 +2,9 @@
   "name": "auth0-javascript-sdk",
   "version": "1.0.0",
   "description": "Sample application for the new Auth0 JavaScript SPA SDK",
-  "main": "bin/www",
+  "main": "server.js",
   "scripts": {
-    "start": "node bin/www",
+    "build": "node bin/www",
     "henrique": "node server.js"
   },
   "keywords": [],
